@@ -13,6 +13,20 @@
   }
 }
 
+.black-nav {
+  background-color: aqua;
+}
+
+/* 5.14 코딩애플 2강 css */
+div {
+  box-sizing: 20px;
+}
+.list {
+  padding-left: 20px;
+  text-align: left;
+  border-bottom: 1px solid gray;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
